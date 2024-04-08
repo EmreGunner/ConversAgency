@@ -1,5 +1,5 @@
 1_1: https://assets-global.website-files.com/6542f11fb6b9075af9ae67ed/65430300dd70dde4a1f52c3f_blog-square-image.png - timeout on image download (website error)
-1_1: https://assets-global.website-files.com/6542f11fb6b9075af9ae67ed/6560adea66ef3f9fed144582_morningside_footer.png - timeout on image download (website error)
+1_1: /images/bigfooterlogo.png - timeout on image download (website error)
 3_1: https://assets-global.website-files.com/6542f11fb6b9075af9ae67ed/65430d2ba3d438fcd1cc06b7_bg.png - timeout on image download (website error)
 4_1: https://assets-global.website-files.com/6542f11fb6b9075af9ae67ed/6551b7ac2606af8e0589e923_Untitled%20design%20-%202023-11-13T184359.254.png - timeout on image download (website error)
 4_1: https://assets-global.website-files.com/6542f11fb6b9075af9ae67ed/6552be478c322be5a1303a0f_Untitled%20design%20-%202023-11-14T132431.508.png - timeout on image download (website error)
